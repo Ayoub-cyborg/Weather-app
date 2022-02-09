@@ -1,0 +1,57 @@
+body{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 130px;
+    background-image: url('./rohit-tandon-9wg5jCEPBsw-unsplash.jpg');
+    background-size: 100%;
+
+}
+
+.Container{
+    border-style: groove;
+    width: 50%;
+    height: 150%;
+    justify-content: center;
+    align-items: center;
+    margin-left: 25%;
+    padding-left: auto;
+    padding-right: auto;
+    padding-top: 0;
+    padding-bottom: 50px;
+    border-radius: 2%;
+    background-image: url('./photo-1519681393784-d120267933ba.jpg');
+    background-size: 100%;
+    color: rgba(253, 252, 252, 0.931);
+}
+
+#Search{
+    width: 60%;
+    padding: 12px 20px;
+    margin-top:10px ;    
+    margin-bottom: 5px;
+    display: inline-block;
+    border: 2px solid rgb(248, 246, 246);
+    border-radius: 12px;
+    padding: 5px;
+}
+.location{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-size: 5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    justify-content: space-between;
+}
+.date{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-size: 2em;
+
+}
+.weather-box{
+    
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-size: 2em;
+}
